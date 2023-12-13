@@ -1,7 +1,15 @@
 [
     {
         "role": "owner",
-        "name": "Your Name Here",
+        "name": "Stubby",
+        "link": "https://www.youtube.com/channel/UCVifLeNLVQe3mYwRW1IiNnA"
+    }
+]
+
+[
+    {
+        "role": "owner",
+        "name": "Virident",
         "link": "https://www.youtube.com/channel/UCVifLeNLVQe3mYwRW1IiNnA"
     }
 ]
