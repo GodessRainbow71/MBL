@@ -6,5 +6,12 @@
     "verifier": "Stubby",
     "verification": "https://youtu.be/OabGnV6iM50",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Ruby",
+            "link": "https://www.youtube.com/watch?v=EWJUfaSMlEA",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
 }
