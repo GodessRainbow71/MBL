@@ -9,7 +9,13 @@
     "records": [
         {
             "user": "CACA",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=RHuPmwZtUP4",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Katoux",
+            "link": "https://www.youtube.com/watch?v=EWJUfaSMlEA",
             "percent": 100,
             "hz": "360"
         }
